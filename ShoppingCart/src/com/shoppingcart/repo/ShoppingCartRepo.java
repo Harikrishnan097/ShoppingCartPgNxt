@@ -16,10 +16,8 @@ public class ShoppingCartRepo implements IShoppingCartRepo {
 
 	
 	Product product_d = new Product();
-	 static List<Product> cproduct = new ArrayList<Product>();
-	double sum = 0, discount;
-	String pattern = "0.00";
-	DecimalFormat decimalFormat = new DecimalFormat(pattern);
+	  List<Product> cproduct = new ArrayList<Product>();
+	
 
 	public int addShopcart(int p_id) {
 
@@ -64,6 +62,9 @@ public class ShoppingCartRepo implements IShoppingCartRepo {
 	
 
 	public void displayCheckOutProd(String card_type) {
+		double sum = 0, discount=0;
+		String pattern = "0.00";
+		DecimalFormat decimalFormat = new DecimalFormat(pattern);
 
 		Map<String, Integer> cards = new HashMap<String, Integer>();
 		cards.put("GOLD", 20);
