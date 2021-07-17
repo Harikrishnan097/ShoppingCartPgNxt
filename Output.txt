@@ -47,9 +47,95 @@ Product Details:Good for Gamers
 ENTER YOUR CHOICE
 2
 FOR ADDING PRODUCT ENTER PRODUCT ID
+1001
+BREAD ADDED SUCCESSFULLY
+--PRODUCT ADDED TO YOUR CARD SUCCESSFULLY--
+-------------------------------------------------------
+                WELCOME TO SHOPPING CENTER ($)
+-------------------------------------------------------
+                   1.LIST PRODUCTS
+                   2.ADD PRODUCT TO CART
+                   3.DISPLAY YOUR CART
+                   4.REMOVE PRODUCT FROM CART
+                   5.CHECK OUT PRODUCT
+                   6.Exit
+ENTER YOUR CHOICE
+2
+FOR ADDING PRODUCT ENTER PRODUCT ID
 1002
 BABY OIL ADDED SUCCESSFULLY
 --PRODUCT ADDED TO YOUR CARD SUCCESSFULLY--
+-------------------------------------------------------
+                WELCOME TO SHOPPING CENTER ($)
+-------------------------------------------------------
+                   1.LIST PRODUCTS
+                   2.ADD PRODUCT TO CART
+                   3.DISPLAY YOUR CART
+                   4.REMOVE PRODUCT FROM CART
+                   5.CHECK OUT PRODUCT
+                   6.Exit
+ENTER YOUR CHOICE
+3
+YOUR CART PRODUCTS
+---------------------------
+Product id:1001
+Product Price:20.0
+Product name:BREAD
+Product Details:Tasty bread 
+---------------
+Product id:1002
+Product Price:200.56
+Product name:BABY OIL
+Product Details:Soft and secure for babies
+---------------
+---------------------------
+-------------------------------------------------------
+                WELCOME TO SHOPPING CENTER ($)
+-------------------------------------------------------
+                   1.LIST PRODUCTS
+                   2.ADD PRODUCT TO CART
+                   3.DISPLAY YOUR CART
+                   4.REMOVE PRODUCT FROM CART
+                   5.CHECK OUT PRODUCT
+                   6.Exit
+ENTER YOUR CHOICE
+4
+ENTER PRODUCT ID TO REMOVE FROM YOUR CART
+1002
+--PRODUCT REMOVED   FROM YOUR CARD SUCCESSFULLY--
+-------------------------------------------------------
+                WELCOME TO SHOPPING CENTER ($)
+-------------------------------------------------------
+                   1.LIST PRODUCTS
+                   2.ADD PRODUCT TO CART
+                   3.DISPLAY YOUR CART
+                   4.REMOVE PRODUCT FROM CART
+                   5.CHECK OUT PRODUCT
+                   6.Exit
+ENTER YOUR CHOICE
+3
+YOUR CART PRODUCTS
+---------------------------
+Product id:1001
+Product Price:20.0
+Product name:BREAD
+Product Details:Tasty bread 
+---------------
+---------------------------
+-------------------------------------------------------
+                WELCOME TO SHOPPING CENTER ($)
+-------------------------------------------------------
+                   1.LIST PRODUCTS
+                   2.ADD PRODUCT TO CART
+                   3.DISPLAY YOUR CART
+                   4.REMOVE PRODUCT FROM CART
+                   5.CHECK OUT PRODUCT
+                   6.Exit
+ENTER YOUR CHOICE
+4
+ENTER PRODUCT ID TO REMOVE FROM YOUR CART
+111
+--PLEASE ENTER THE CARD PRODUCT ID COORECTLY TO REMOVE YOUR PRODUCT--
 -------------------------------------------------------
                 WELCOME TO SHOPPING CENTER ($)
 -------------------------------------------------------
@@ -75,122 +161,26 @@ ASUS ROG 5 ADDED SUCCESSFULLY
                    5.CHECK OUT PRODUCT
                    6.Exit
 ENTER YOUR CHOICE
-3
-YOUR CART PRODUCTS
----------------------------
-Product id:1002
-Product Price:200.56
-Product name:BABY OIL
-Product Details:Soft and secure for babies
----------------
-Product id:1005
-Product Price:45000.0
-Product name:ASUS ROG 5
-Product Details:Good for Gamers
----------------
----------------------------
--------------------------------------------------------
-                WELCOME TO SHOPPING CENTER ($)
--------------------------------------------------------
-                   1.LIST PRODUCTS
-                   2.ADD PRODUCT TO CART
-                   3.DISPLAY YOUR CART
-                   4.REMOVE PRODUCT FROM CART
-                   5.CHECK OUT PRODUCT
-                   6.Exit
-ENTER YOUR CHOICE
-4
-ENTER PRODUCT ID TO REMOVE FROM YOUR CART
-1005
---PRODUCT REMOVED   FROM YOUR CARD SUCCESSFULLY--
--------------------------------------------------------
-                WELCOME TO SHOPPING CENTER ($)
--------------------------------------------------------
-                   1.LIST PRODUCTS
-                   2.ADD PRODUCT TO CART
-                   3.DISPLAY YOUR CART
-                   4.REMOVE PRODUCT FROM CART
-                   5.CHECK OUT PRODUCT
-                   6.Exit
-ENTER YOUR CHOICE
-3
-YOUR CART PRODUCTS
----------------------------
-Product id:1002
-Product Price:200.56
-Product name:BABY OIL
-Product Details:Soft and secure for babies
----------------
----------------------------
--------------------------------------------------------
-                WELCOME TO SHOPPING CENTER ($)
--------------------------------------------------------
-                   1.LIST PRODUCTS
-                   2.ADD PRODUCT TO CART
-                   3.DISPLAY YOUR CART
-                   4.REMOVE PRODUCT FROM CART
-                   5.CHECK OUT PRODUCT
-                   6.Exit
-ENTER YOUR CHOICE
-2
-FOR ADDING PRODUCT ENTER PRODUCT ID
-1004
-I PHONE 8 ADDED SUCCESSFULLY
---PRODUCT ADDED TO YOUR CARD SUCCESSFULLY--
--------------------------------------------------------
-                WELCOME TO SHOPPING CENTER ($)
--------------------------------------------------------
-                   1.LIST PRODUCTS
-                   2.ADD PRODUCT TO CART
-                   3.DISPLAY YOUR CART
-                   4.REMOVE PRODUCT FROM CART
-                   5.CHECK OUT PRODUCT
-                   6.Exit
-ENTER YOUR CHOICE
-3
-YOUR CART PRODUCTS
----------------------------
-Product id:1002
-Product Price:200.56
-Product name:BABY OIL
-Product Details:Soft and secure for babies
----------------
-Product id:1004
-Product Price:70000.0
-Product name:I PHONE 8
-Product Details:Standard product
----------------
----------------------------
--------------------------------------------------------
-                WELCOME TO SHOPPING CENTER ($)
--------------------------------------------------------
-                   1.LIST PRODUCTS
-                   2.ADD PRODUCT TO CART
-                   3.DISPLAY YOUR CART
-                   4.REMOVE PRODUCT FROM CART
-                   5.CHECK OUT PRODUCT
-                   6.Exit
-ENTER YOUR CHOICE
 5
 SELECT YOUR CREDIT CARD
 1.GOLD
 2.SILVER
 3.NORMAL
 1
-Product id:1002
-Product Price:200.56
-Product name:BABY OIL
-Product Details:Soft and secure for babies
+Product id:1001
+Product Price:20.0
+Product name:BREAD
+Product Details:Tasty bread 
 ----------------------------------------
-Product id:1004
-Product Price:70000.0
-Product name:I PHONE 8
-Product Details:Standard product
+Product id:1005
+Product Price:45000.0
+Product name:ASUS ROG 5
+Product Details:Good for Gamers
 ----------------------------------------
-TOTAL AMOUNT: RS.70200.56
-AS A GOLD 20%  MEMBER DISCOUNTED:  RS.14040.11
+TOTAL AMOUNT: RS.45020.00
+AS A GOLD 20%  MEMBER DISCOUNTED:  RS.9004.00
 -----------------
-TO BE PAID: RS.56160.45
+TO BE PAID: RS.36016.00
 -------------------------------------------------------
                 WELCOME TO SHOPPING CENTER ($)
 -------------------------------------------------------
@@ -207,20 +197,20 @@ SELECT YOUR CREDIT CARD
 2.SILVER
 3.NORMAL
 2
-Product id:1002
-Product Price:200.56
-Product name:BABY OIL
-Product Details:Soft and secure for babies
+Product id:1001
+Product Price:20.0
+Product name:BREAD
+Product Details:Tasty bread 
 ----------------------------------------
-Product id:1004
-Product Price:70000.0
-Product name:I PHONE 8
-Product Details:Standard product
+Product id:1005
+Product Price:45000.0
+Product name:ASUS ROG 5
+Product Details:Good for Gamers
 ----------------------------------------
-TOTAL AMOUNT: RS.140401.12
-AS A SILVER 10%  MEMBER DISCOUNTED:  RS.14040.11
+TOTAL AMOUNT: RS.45020.00
+AS A SILVER 10%  MEMBER DISCOUNTED:  RS.4502.00
 -----------------
-TO BE PAID: RS.126361.01
+TO BE PAID: RS.40518.00
 -------------------------------------------------------
                 WELCOME TO SHOPPING CENTER ($)
 -------------------------------------------------------
@@ -237,20 +227,20 @@ SELECT YOUR CREDIT CARD
 2.SILVER
 3.NORMAL
 3
-Product id:1002
-Product Price:200.56
-Product name:BABY OIL
-Product Details:Soft and secure for babies
+Product id:1001
+Product Price:20.0
+Product name:BREAD
+Product Details:Tasty bread 
 ----------------------------------------
-Product id:1004
-Product Price:70000.0
-Product name:I PHONE 8
-Product Details:Standard product
+Product id:1005
+Product Price:45000.0
+Product name:ASUS ROG 5
+Product Details:Good for Gamers
 ----------------------------------------
-TOTAL AMOUNT: RS.210601.68
+TOTAL AMOUNT: RS.45020.00
 AS A NORMAL 0%  MEMBER DISCOUNTED:  RS.0.00
 -----------------
-TO BE PAID: RS.210601.68
+TO BE PAID: RS.45020.00
 -------------------------------------------------------
                 WELCOME TO SHOPPING CENTER ($)
 -------------------------------------------------------
