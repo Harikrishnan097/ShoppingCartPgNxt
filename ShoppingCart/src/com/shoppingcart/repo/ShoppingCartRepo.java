@@ -16,7 +16,7 @@ public class ShoppingCartRepo implements IShoppingCartRepo {
 
 	
 	Product product_d = new Product();
-	List<Product> cproduct = new ArrayList<Product>();
+	 static List<Product> cproduct = new ArrayList<Product>();
 	double sum = 0, discount;
 	String pattern = "0.00";
 	DecimalFormat decimalFormat = new DecimalFormat(pattern);
@@ -54,6 +54,7 @@ public class ShoppingCartRepo implements IShoppingCartRepo {
 			System.out.println("Product Price:" + p.getPrice());
 			System.out.println("Product name:" + p.getProduct_name());
 			System.out.println("Product Details:" + p.getProduct_details());
+			System.out.println("---------------");
 	
 
 		}
@@ -93,7 +94,7 @@ public class ShoppingCartRepo implements IShoppingCartRepo {
 		System.out.println("TOTAL AMOUNT: RS." + decimalFormat.format(sum));
 		System.out.print("AS A ");
 		System.out.print(ANSI_PURPLE + card_type + ANSI_RESET);
-		System.out.println("  MEMBER DISCOUNTED:  RS." + decimalFormat.format(discount));
+		System.out.println( " " +cards.get(card_type)+"%  MEMBER DISCOUNTED:  RS." + decimalFormat.format(discount));
 		System.out.println("-----------------");
 		double total_price = sum - discount;
 		System.out.println(ANSI_PURPLE + "TO BE PAID: RS." + decimalFormat.format(total_price) + ANSI_RESET);
